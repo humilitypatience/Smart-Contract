@@ -45,6 +45,10 @@ cd  RestAPIWithDeno
 
 ```
 
+```vue
+  cd  run dev
+```
+
 Here you can find the instructions to run that sample project in Deno.
 
 <h2 id="license">License</h2>
